@@ -1,0 +1,13 @@
+Loan_ID,Unique Identifier for each loan
+Loan_Amount_Requested,Amount of the Loan Requested 
+Length_Employed,Time in years of employment of the borrower
+Home_Owner,Number of homes the borrower owns
+Annual_Income,Annual Income in rupees of the borrower
+Income_Verified,Number of Verified Sources of Income
+Purpose_Of_Loan,Encoded identifier for the purpose of the loan
+Debt_To_Income,Total existing debt to Income ratio of the borrower
+Inquiries_Last_6Mo,Number of inquiries made by the borrower regarding loans in the last 6 months
+Number_Open_Accounts,Number of open bank accounts of borrower
+Total_Accounts,Total number of bank accounts of the borrower
+Gender,Gender of the borrower
+Interest_Rate,"Interest rate group (1: Low, 2: Average, 3:High)"
