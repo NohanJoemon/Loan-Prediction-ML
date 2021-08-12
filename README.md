@@ -7,7 +7,12 @@ Predicting loan interest rate using ML techniques
 [Contest link](https://www.kaggle.com/c/analyticsclubproject)
 
 ## My solution:
-[This notebook](Code_and_Dataset/Loan-Prediction.ipynb) contains important visualizations of data, prediction using chosen model and final results. Along with that, I have tried the following in separate supplement notebooks:
+
+### Main notebook
+[This notebook](Code_and_Dataset/Loan-Prediction.ipynb) contains important visualizations of data, prediction using chosen model and final results. 
+
+### Supplement notebooks
+I have tried the following in separate supplement notebooks:
 
 [Model selection](Code_and_Dataset/model-selection.ipynb)
 
